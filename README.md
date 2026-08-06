@@ -85,7 +85,7 @@ Run the full pipeline on an image:
 python src/main.py samples/input_images/example.jpg
 ```
 
-Translate the recognized text into Spanish before speaking it:
+Translate the recognized text into Bengali before speaking it:
 
 ```bash
 python src/main.py samples/input_images/example.jpg --dest-lang es
