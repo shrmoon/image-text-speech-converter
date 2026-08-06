@@ -106,7 +106,7 @@ python src/text_to_speech.py samples/output/example.txt -o samples/output/exampl
 - **Title:** Conversion of Image to Text as Well as Speech for Professional Use
 - **Institution:** Department of Information and Communication Technology, Comilla University
 - **Author:** Sharmin Akter
-- **Supervisor:** Md Ariful Islam, Lecturer, Dept. of ICT
+- **Supervisor:** Md Ariful Islam, Assistant Professor, Department of Robotics and Mechatronics Engineering, University of Dhaka
 - **Original hardware:** Raspberry Pi 3, Pi Camera, microphone, speaker
 - **Original tools:** Python 3, Tesseract OCR, Pytesseract, PIL, pyttsx3, Google TTS/Translate
 
