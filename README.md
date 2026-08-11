@@ -124,6 +124,20 @@ demonstrating that OCR still works when text isn't simple black-on-white.
 - **Original hardware:** Raspberry Pi 3, Pi Camera, microphone, speaker
 - **Original tools:** Python 3, Tesseract OCR, Pytesseract, PIL, pyttsx3, Google TTS/Translate
 
+## References
+
+This project builds on the methodology described in the following works:
+
+1. Shah, T., & Parshionikar, S. (2019). *Efficient Portable Camera Based Text to Speech Converter for Blind Person*. International Conference on Intelligent Sustainable Systems (ICISS 2019).
+2. *A Text Reader for the Visually Impaired using Raspberry Pi*. Proceedings of the Second International Conference on Computing Methodologies and Communication (ICCMC 2018).
+3. Rithika, H., & Santhoshi, B. N. *Image Text To Speech Conversion In The Desired Language By Translating With Raspberry Pi*.
+4. Smith, R. (2007). *An Overview of the Tesseract OCR Engine*. International Conference on Document Analysis and Recognition.
+5. Rice, S. V., Jenkins, F. R., & Nartker, T. A. (1995). *The Fourth Annual Test of OCR Accuracy*. Information Science Research Institute.
+6. Bhargava, A., Nath, K. V., Sachdeva, P., & Samel, M. (2015). *Reading Assistant for the Visually Impaired*. International Journal of Current Engineering and Technology (IJCET), 5(2).
+7. Devi, V. A., & Baboo, S. S. (2014). *Optical Character Recognition on Tamil Text Image Using Raspberry Pi*. International Journal of Computer Science Trends and Technology (IJCST), 2(4).
+8. Kumari, K. N., & Reddy, M. J. (2016). *Image Text to Speech Conversion Using OCR Technique in Raspberry Pi*. International Journal of Advanced Research in Electrical, Electronics and Instrumentation Engineering (IJAREEIE), 5(5).
+9. Tesseract OCR Engine — [github.com/tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
