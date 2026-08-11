@@ -107,6 +107,7 @@ python src/text_to_speech.py samples/output/example.txt -o samples/output/exampl
 - **Institution:** Department of Information and Communication Technology, Comilla University
 - **Author:** Sharmin Akter
 - **Supervisor:** Md Ariful Islam — Assistant Professor, Department of Robotics and Mechatronics Engineering, University of Dhaka (Ex-Lecturer, Dept. of ICT, Comilla University)
+- **Supervisor:** Md Ariful Islam — Assistant Professor, Department of Robotics and Mechatronics Engineering, University of Dhaka (Ex-Lecturer, Dept. of ICT, Comilla University)
 - **Original hardware:** Raspberry Pi 3, Pi Camera, microphone, speaker
 - **Original tools:** Python 3, Tesseract OCR, Pytesseract, PIL, pyttsx3, Google TTS/Translate
 
