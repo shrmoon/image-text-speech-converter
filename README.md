@@ -100,7 +100,20 @@ python src/image_to_text.py samples/input_images/example.jpg -o samples/output/e
 # Text -> Speech only
 python src/text_to_speech.py samples/output/example.txt -o samples/output/example.mp3
 ```
+## Sample Input & Output
 
+**Input:** an image containing colored text on a colored background,
+demonstrating that OCR still works when text isn't simple black-on-white.
+
+![Input image with colored text](assets/input_colored_text.png)
+
+*Figure: Image containing colored text with a colored background*
+
+**Output:** the recognized text, extracted via OCR and saved to a `.txt` file.
+
+![OCR output text file](assets/output_text_file.png)
+
+*Figure: Extracted text saved to text_file.txt*
 ## Original project context
 
 - **Title:** Conversion of Image to Text as Well as Speech for Professional Use
